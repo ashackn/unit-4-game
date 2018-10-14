@@ -1,0 +1,27 @@
+.crystalRed {
+    background-image: url( 'https://images-na.ssl-images-amazon.com/images/I/51eQnZPVfiL.jpg' );
+    background-size: 100px 130px;
+    height: 134px;  
+    width: 104px;
+}
+
+.crystalBlue {
+    background-image: url( 'https://images-na.ssl-images-amazon.com/images/I/51LeRbIWO8L.jpg' );
+    background-size: 100px 130px;
+    height: 134px;  
+    width: 104px;
+}
+
+.crystalGreen {
+    background-image: url( 'https://images-na.ssl-images-amazon.com/images/I/51q9C73ZaFL.jpg' );
+    background-size: 100px 130px;
+    height: 134px;  
+    width: 104px;
+}
+
+.crystalYellow {
+    background-image: url( 'https://images-na.ssl-images-amazon.com/images/I/51G98BJVDXL.jpg' );
+    background-size: 100px 130px;
+    height: 134px;  
+    width: 104px;
+}
